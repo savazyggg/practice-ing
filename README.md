@@ -1,2 +1,2 @@
-# interactivepractice
-interactive javascript practice
+# practice -ing 
+practice & practice
